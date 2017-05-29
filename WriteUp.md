@@ -37,5 +37,9 @@ Data File: <a href="all_data.csv">all_data.csv</a>
 
 Python Code: <a href="./PP_Webscrape.html">html </a>, <a href="./PP_Webscrape.ipynb">ipynb</a>
 
+## Additional Reading
+
+Outside Magazines <a href="https://www.outsideonline.com/2127116/great-slowing-american-runner">The Great Slowing of the American Runner</a>. I actually found this after creating the visualization and noticing the slowing of the overall and age group times and found it an interesting read.
+
 
 
